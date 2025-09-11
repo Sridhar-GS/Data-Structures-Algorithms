@@ -45,9 +45,9 @@ return **indices of the two numbers** such that they add up to `target`.
 
 ##  Solutions
 
-- **Java** → [Brute Force](java/two_sum_bruteforce.java), [Hash Map](java/two_sum_hashmap.java)  
-- **Python** → [Brute Force](python/two_sum_bruteforce.py), [Hash Map](python/two_sum_hashmap.py)  
-- **C++** → [Brute Force](cpp/two_sum_bruteforce.cpp), [Hash Map](cpp/two_sum_hashmap.cpp)  
+- **Java** → [Brute Force](two_sum_bruteforce.java), [Hash Map](two_sum_hashmap.java)  
+- **Python** → [Brute Force](two_sum_bruteforce.py), [Hash Map](two_sum_hashmap.py)  
+- **C++** → [Brute Force](two_sum_bruteforce.cpp), [Hash Map](two_sum_hashmap.cpp)  
 
 ---
 
